@@ -9,6 +9,7 @@ function Livro({dadosJSON}){
                     <img src={livro.imagem} width={150} alt='Capa do livroas cavernas de aço de Issac Asmiov'></img>
                     <p> 
                         {livro.descricao}
+                        
                     </p>
                 </div>
                 ))
